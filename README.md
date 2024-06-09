@@ -1,1 +1,1 @@
-# SQL-Cases-tudy
+# SQL-Case-study
